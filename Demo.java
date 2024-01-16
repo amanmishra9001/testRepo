@@ -9,7 +9,7 @@ public class Test {
 		//ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("config.xml");
 //		Employee bean = (Employee) context.getBean("emp");
 		//Employee bean = context.getBean(Employee.class);
-		System.out.println("bank");
+		System.out.println("demo modified by akash bank");
 		
 	}
 
